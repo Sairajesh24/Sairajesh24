@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sairajesh</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Sairajesh24/Sairajesh24/assets/112702236/21682d9d-c693-41c0-b231-cd167855057f)
+">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sairajesh24&label=Profile%20views&color=0e75b6&style=flat" alt="sairajesh24" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sairajesh24](https://github.com/Sairajesh24)
