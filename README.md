@@ -1,4 +1,4 @@
-![logo](Copy of Navy And White Geometric Technology  LinkedIn Banner (1).png)
+![logo](https://github.com/Sairajesh24/Sairajesh24/blob/main/Copy%20of%20Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Sairajesh</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
 
